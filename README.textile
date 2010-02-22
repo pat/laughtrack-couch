@@ -1,0 +1,13 @@
+h1. LaughTrack on CouchDB
+
+This is the companion CouchDB structures for the "LaughTrack":http://github.com/freelancing-god/laughtrack Rails application.
+
+h2. Set up
+
+At this point, it's extremely simple, so once you've installed "CouchApp":http://github.com/couchapp/couchapp, just push it to your local laughtrack database.
+
+<pre><code>couchapp push http://127.0.0.1:5984/laughtrack</code></pre>
+
+h2. Credits
+
+"Pat Allan":http://freelancing-gods.com
